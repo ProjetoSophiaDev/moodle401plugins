@@ -122,3 +122,11 @@
 	path = moodle/report/allbackups
 	url = https://github.com/catalyst/moodle-report_allbackups.git
 	branch = MOODLE_400_STABLE
+[submodule "moodle/availability/condition/relativedate"]
+	path = moodle/availability/condition/relativedate
+	url = https://github.com/ewallah/moodle-availability_relativedate.git
+	branch = main
+[submodule "moodle/availability/condition/ipaddress"]
+	path = moodle/availability/condition/ipaddress
+	url = https://github.com/MFreakNL/moodle-availability_ipaddress.git
+	branch = master
