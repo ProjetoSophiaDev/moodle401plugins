@@ -42,3 +42,7 @@
 	path = moodle/mod/subcourse
 	url = https://github.com/mudrd8mz/moodle-mod_subcourse.git
 	branch = main
+[submodule "moodle/mod/coursecertificate"]
+	path = moodle/mod/coursecertificate
+	url = https://github.com/moodleworkplace/moodle-mod_coursecertificate.git
+	branch = master
