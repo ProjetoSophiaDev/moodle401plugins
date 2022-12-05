@@ -150,3 +150,23 @@
 	path = moodle/enrol/autoenrol
 	url = https://github.com/bobopinna/moodle-enrol_autoenrol.git
 	branch = master
+[submodule "moodle/course/format/softcourse"]
+	path = moodle/course/format/softcourse
+	url = https://github.com/DigiDago/moodle-format_softcourse.git
+	branch = MOODLE_400_STABLE
+[submodule "moodle/course/format/collapsibletopics"]
+	path = moodle/course/format/collapsibletopics
+	url = https://github.com/cellule-tice/moodle-format_collapsibletopics.git
+	branch = moodle311
+[submodule "moodle/course/format/tiles"]
+	path = moodle/course/format/tiles
+	url = https://bitbucket.org/dw8/moodle-format_tiles.git
+	branch = moodle40
+[submodule "moodle/course/format/etask"]
+	path = moodle/course/format/etask
+	url = https://gitlab.com/drlikm/format_etask.git
+	branch = master
+[submodule "moodle/course/format/wplist"]
+	path = moodle/course/format/wplist
+	url = https://github.com/moodleworkplace/moodle-format_wplist.git
+	branch = master
