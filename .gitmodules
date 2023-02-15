@@ -170,3 +170,7 @@
 	path = moodle/course/format/wplist
 	url = https://github.com/moodleworkplace/moodle-format_wplist.git
 	branch = master
+[submodule "moodle/mod/scheduler"]
+	path = moodle/mod/scheduler
+	url = https://github.com/bostelm/moodle-mod_scheduler.git
+	branch = master
