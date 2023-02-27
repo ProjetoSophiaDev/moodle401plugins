@@ -190,3 +190,7 @@
 	path = moodle/lib/editor/ousupsub
 	url = https://github.com/moodleou/moodle-editor_ousupsub.git
 	branch = main
+[submodule "moodle/theme/eguru"]
+	path = moodle/theme/eguru
+	url = https://github.com/ProjetoSophiaDev/eguru4.1.git
+	branch = main
