@@ -277,7 +277,7 @@ git submodule add -b master https://github.com/moodleworkplace/moodle-format_wpl
 - https://github.com/ProjetoSophiaDev/eguru4
 
 ```bash
-git submodule add -b main https://github.com/ProjetoSophiaDev/eguru4.git theme/eguru
+git submodule add -b main https://github.com/ProjetoSophiaDev/eguru4.1.git theme/eguru
 ```
 
 ## Git commands
