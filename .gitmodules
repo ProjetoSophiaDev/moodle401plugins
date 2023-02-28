@@ -190,3 +190,7 @@
 	path = moodle/theme/eguru
 	url = https://github.com/ProjetoSophiaDev/eguru4.1.git
 	branch = main
+[submodule "moodle/mod/publication"]
+	path = moodle/mod/publication
+	url = https://github.com/academic-moodle-cooperation/moodle-mod_publication.git
+	branch = MOODLE_401_STABLE
