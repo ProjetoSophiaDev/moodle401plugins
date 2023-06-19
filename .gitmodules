@@ -198,3 +198,7 @@
 	path = moodle/availability/condition/coursecompleted
 	url = https://github.com/ewallah/moodle-availability_coursecompleted.git
 	branch = main
+[submodule "moodle/availability/condition/sectioncompleted"]
+	path = moodle/availability/condition/sectioncompleted
+	url = https://github.com/bdecentgmbh/moodle-availability_sectioncompleted.git
+	branch = main
