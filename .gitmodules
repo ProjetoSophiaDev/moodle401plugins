@@ -194,3 +194,7 @@
 	path = moodle/mod/publication
 	url = https://github.com/academic-moodle-cooperation/moodle-mod_publication.git
 	branch = MOODLE_401_STABLE
+[submodule "moodle/availability/condition/coursecompleted"]
+	path = moodle/availability/condition/coursecompleted
+	url = https://github.com/ewallah/moodle-availability_coursecompleted.git
+	branch = main
