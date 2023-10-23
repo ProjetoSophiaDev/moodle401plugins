@@ -76,7 +76,7 @@ git submodule add -b MOODLE_401_STABLE https://github.com/academic-moodle-cooper
 
 - https://github.com/markn86/moodle-mod_customcert
 ```bash
-git submodule add -b MOODLE_400_STABLE https://github.com/markn86/moodle-mod_customcert.git mod/customcert
+git submodule add -b MOODLE_401_STABLE https://github.com/markn86/moodle-mod_customcert.git mod/customcert
 ```
 
 - https://github.com/mudrd8mz/moodle-mod_subcourse
