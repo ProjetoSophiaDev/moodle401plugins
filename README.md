@@ -216,7 +216,7 @@ git submodule add -b master https://github.com/MFreakNL/moodle-availability_ipad
 
 - https://github.com/moodleuulm/moodle-local_sandbox
 ```bash
-git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
+git submodule add -b MOODLE_401_STABLE https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
 ```
 
 ### ADMIN
